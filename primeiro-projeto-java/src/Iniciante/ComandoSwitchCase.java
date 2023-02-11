@@ -5,7 +5,7 @@ public class ComandoSwitchCase {
 
 		/* SWITCH CASE: OPRACAÇÕES EXATAS */
 
-		int dia = 3;
+		int dia = 2;
 
 		switch (dia) {
 		case 1:
